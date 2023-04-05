@@ -1,9 +1,11 @@
 
- <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg" alt="JuveR" width="300px">
+ <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg" alt="Login" width="500px">
  
-  <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/imgSoja.jpg" alt="JuveR" width="300px">
+  <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/home.jpeg" alt="Home" width="500px">
   
-   <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg" alt="JuveR" width="300px">
+  <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/addStock.jpeg" alt="Add stock" width="500px">
+  <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/details.jpeg" alt="Details of the product" width="500px">
+   
 
 
 ## Table of Contents
