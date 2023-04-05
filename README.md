@@ -1,5 +1,5 @@
 
- <img src="![img login](https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg)" alt="JuveR" width="300px">
+ <img src="https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg" alt="JuveR" width="300px">
 
 
 ## Table of Contents
