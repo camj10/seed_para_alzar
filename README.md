@@ -1,4 +1,4 @@
- ! [img login] (https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg))
+ ! [img login] (https://github.com/camj10/seed_para_alzar/blob/master/client/src/assets/img/login.jpeg)
 
 
 
